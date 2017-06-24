@@ -25,3 +25,23 @@ Existem alguns padrões e conceitos sobre o Angular, o cara que com maior maestr
 
 **EN** : https://github.com/johnpapa/angular-styleguide </br>
 **PT-BR** : https://github.com/johnpapa/angular-styleguide/blob/master/i18n/pt-BR.md
+
+___________________________________________
+
+### O que é o Angular 2?
+Angular 2 é um framework que permite desenvolver aplicações web e mobile, mantido pela Google. Apesar de ser a segunda versão do framework, Angular 2 não é a continuação do Angular 1 com melhores e novas funcionalidades, foi reescrito. Nesse curso vamos aprender como desenvolver com Angular 2.x e 4.x e TypeScript.
+
+### Quem usa Angular?
+### Video Aulas
+
+- **Loiane PT-BR** https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
+
+### Artigos
+**BASICO**
+- https://tableless.com.br/angular-2-vale-pena/
+
+### Biblia do Angular
+Existem alguns padrões e conceitos sobre o Angular, o cara que com maior maestria "domou" essas coisas e montou um GuideLine completo foi o grande **John Papa**
+
+**EN** : https://github.com/johnpapa/angular-styleguide/tree/master/a2
+
